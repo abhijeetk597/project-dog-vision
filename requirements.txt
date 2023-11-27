@@ -7,4 +7,3 @@ pandas
 matplotlib
 tensorflow
 tensorflow_hub
-PIL.Image
