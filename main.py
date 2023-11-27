@@ -94,7 +94,7 @@ if __name__ == '__main__':
         """)
         st.caption(':red[:copyright: Abhijeet Kamble]')
         st.link_button('LinkedIn', url='https://www.linkedin.com/in/abhijeetk597/')
-        st.link_button('GitHub', url='')
+        st.link_button('GitHub', url='https://github.com/abhijeetk597/project-dog-vision')
 
     st.header('Upload photo of your dog :dog:')
     file = st.file_uploader('')
