@@ -21,6 +21,7 @@ This project uses data from Kaggle's 'Dog Breed Identification' competition with
 1. Crafted an interactive app on Streamlit for breed predictions
 2. Published the project on GitHub
 3. Successfully deployed the app on Streamlit Cloud
+> Streamlit App- https://lnkd.in/dAqtsXPy
 
 🔑 Key Learnings:
 - Deep dive into TensorFlow and Neural Networks
@@ -28,7 +29,6 @@ This project uses data from Kaggle's 'Dog Breed Identification' competition with
 - Harnessing GPU power for training and predictions
 - Seamlessly deploying models using Streamlit
 
-Streamlit App- https://lnkd.in/dAqtsXPy
 
 Project Organization
 ------------
