@@ -3,11 +3,6 @@ Project-dog-vision
 
 Dog_breed_classification - Deep Learning / Transfer Learning Project including deployment on Streamlit
 
-🚀 Excited to share my journey diving into the world of Deep Learning with my first project, 'Dog Vision'! 🐶
-Using TensorFlow, I delved into the complexities of neural networks and brought this project to life, complete with deployment on Streamlit Cloud.
-
-🔍 When I was working in the Bank, I was always wondered about how CTS machine detects cheque no and micr code, or how CKYC scanner detects the type of ID proof. Now, as I immerse myself in Deep Learning, those mysteries are unraveling.
-
 This project uses data from Kaggle's 'Dog Breed Identification' competition with over 120 breeds and 10k+ images in both training and test sets.
 
 📈 The execution plan was a two-phase approach:
