@@ -21,7 +21,7 @@ This project uses data from Kaggle's 'Dog Breed Identification' competition with
 1. Crafted an interactive app on Streamlit for breed predictions
 2. Published the project on GitHub
 3. Successfully deployed the app on Streamlit Cloud
-> Streamlit App- https://lnkd.in/dAqtsXPy
+> Streamlit App- http://project-dog-vision.streamlit.app/
 
 
 🔑 Key Learnings:
