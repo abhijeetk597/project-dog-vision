@@ -11,14 +11,16 @@ Using TensorFlow, I delved into the complexities of neural networks and brought 
 This project uses data from Kaggle's 'Dog Breed Identification' competition with over 120 breeds and 10k+ images in both training and test sets.
 
 📈 The execution plan was a two-phase approach:
-**First Go:**
-1. Prepping images and labels into Tensors
-2. Experimenting with models like mobilenet_v2
-3. Training and scoring predictions on Kaggle
-**Second Go:**
-1. Augmenting data by flipping images
-2. Employing another model, resnet_v2_50
-3. Training, scoring, and validating predictions
+
+    **First Go:**
+    1. Prepping images and labels into Tensors
+    2. Experimenting with models like mobilenet_v2
+    3. Training and scoring predictions on Kaggle
+
+    **Second Go:**
+    1. Augmenting data by flipping images
+    2. Employing another model, resnet_v2_50
+    3. Training, scoring, and validating predictions
 
 🌐 Then came deployment:
 1. Crafted an interactive app on Streamlit for breed predictions
