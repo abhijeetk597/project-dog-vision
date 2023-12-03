@@ -17,11 +17,12 @@ This project uses data from Kaggle's 'Dog Breed Identification' competition with
     2. Employing another model, resnet_v2_50
     3. Training, scoring, and validating predictions
 
-🌐 Then came deployment:
+🌐 Deployment:
 1. Crafted an interactive app on Streamlit for breed predictions
 2. Published the project on GitHub
 3. Successfully deployed the app on Streamlit Cloud
 > Streamlit App- https://lnkd.in/dAqtsXPy
+
 
 🔑 Key Learnings:
 - Deep dive into TensorFlow and Neural Networks
