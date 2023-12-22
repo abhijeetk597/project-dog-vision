@@ -40,7 +40,7 @@ This project uses data from Kaggle's 'Dog Breed Identification' competition with
 - TensorFlow Functional API and feature vector models with fine-tuning can be implemented.
     Feature vector models perform very well after fine-tuning.
 - Modular programming can be done.
-- Testing the app on docker before upgrading.
+- Testing the app on docker-engine before upgrading.
 
 Project Organization
 ------------
