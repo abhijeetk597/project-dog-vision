@@ -30,6 +30,17 @@ This project uses data from Kaggle's 'Dog Breed Identification' competition with
 - Harnessing GPU power for training and predictions
 - Seamlessly deploying models using Streamlit
 
+💡Observations and further plans
+- Since `resnet` model is having complex architecture, size of the model is large.
+    Hence I have planned to disable `resnet` due GitLFS limitations.
+- When training `resnet` model, I have only implemented 2 transformations for Image Augmentation.
+    So, if Image Augmentation is properly done, model performance can be improved.
+- `Efficient_net B0-B4` model can be used, since it lighter than `resnet` and
+    has higher accuracy. [Ref](https://wisdomml.in/efficientnet-and-its-performance-comparison-with-other-transfer-learning-networks/#:~:text=EfficientNet%20has%20shown%20superior%20performance%20on%20object%20detection%20tasks%20compared,method%20achieved%20only%2050.0%20AP.)
+- TensorFlow Functional API and feature vector models with fine-tuning can be implemented.
+    Feature vector models perform very well after fine-tuning.
+- Modular programming can be done.
+- Testing the app on docker before upgrading.
 
 Project Organization
 ------------
